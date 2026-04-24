@@ -16,6 +16,7 @@ with its own version tag.
 | Module | Description |
 |--------|-------------|
 | [`pages`](./modules/pages) | Cloudflare Pages project connected to a Git repository (GitHub/GitLab), with build config, env vars, and custom domains. |
+| [`domain`](./modules/domain) | Cloudflare zone (DNS zone for a domain) with its DNS records managed together. |
 
 ## Usage
 
