@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "separate-pull-requests": true,
+  "include-component-in-tag": true,
+  "tag-separator": "/",
+  "packages": {
+    "modules/pages": {
+      "release-type": "terraform-module",
+      "component": "pages",
+      "package-name": "pages"
+    }
+  }
+}
