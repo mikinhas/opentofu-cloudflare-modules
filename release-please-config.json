@@ -8,6 +8,11 @@
       "release-type": "terraform-module",
       "component": "pages",
       "package-name": "pages"
+    },
+    "modules/domains": {
+      "release-type": "terraform-module",
+      "component": "domains",
+      "package-name": "domains"
     }
   }
 }

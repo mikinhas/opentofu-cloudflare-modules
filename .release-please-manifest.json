@@ -1,3 +1,4 @@
 {
-  "modules/pages": "0.1.0"
+  "modules/pages": "0.1.0",
+  "modules/domains": "0.0.0"
 }
